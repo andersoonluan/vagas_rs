@@ -13,7 +13,7 @@ Abra uma <b>issue</b> e, no titulo desta issue, coloque o nome da cidade entre c
 Para cadastrar uma oportunidade utilize o [Template de Issue](https://github.com/andersoonluan/vagas_rs/blob/master/issue_template.md) disponível no repositório.
 
 ```
-Exemplo: [Porto Alegre] Desenvolvedor .NET
+Exemplo: [Porto Alegre - Empresa] Desenvolvedor .NET
 ```
 
 Adicione <i>labels</i> contendo o nível de experiência desejada e a forma de contração.
