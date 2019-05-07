@@ -9,7 +9,8 @@ Você pode acompanhar as vagas disponíveis em [issues](https://github.com/ander
 
 ### Cadastrando uma oportunidade
 
-Abra uma <b>issue</b> e, no titulo desta issue, coloque o nome da cidade entre colchetes seguido do <b>nome da vaga</b>.
+Abra uma <b>issue</b> e, no titulo desta issue, coloque o nome da cidade entre colchetes seguido do <b>nome da vaga</b>.<br>
+Para cadastrar uma oportunidade utilize o [Template de Issue](https://github.com/andersoonluan/vagas_rs/blob/master/issue_template.md) disponível no repositório.
 
 ```
 Exemplo: [Porto Alegre] Desenvolvedor .NET
@@ -24,6 +25,4 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, ped
 
 ### Como receber atualizações de novas vagas
 
-Para receber as principais notificações de vagas no seu e-mail ou ou através de notificações do Github, clique em <b>Watch</b>. Você também pode modificar o modo de receber notificações em [notifications](https://github.com/settings/notifications) no próprio Github.
-
-
+Para receber as principais notificações de vagas no seu e-mail ou ou através de notificações do Github, clique em Watch e selecione <b>Watching</b>. Você também pode modificar o modo de receber notificações em [notifications](https://github.com/settings/notifications) no próprio Github.
