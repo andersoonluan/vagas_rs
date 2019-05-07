@@ -4,7 +4,8 @@
 
 # Vagas
 
-Espaço para a divulgação de vagas para desenvolvedores, analistas e devops via issue do Github.
+Espaço para a divulgação de vagas para desenvolvedores, analistas e devops via issue do Github.<br>
+Você pode acompanhar as vagas disponíveis em [issues](https://github.com/andersoonluan/vagas_rs/issues).
 
 ### Cadastrando uma oportunidade
 
